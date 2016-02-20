@@ -19,38 +19,33 @@ public class CalculatorTest {
 		
 		assertNotNull(test); 
 	}
-
+	
 	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
-	@Test
-	public void test() {
+	public void test_getTotal() {
 		fail("Not yet implemented");
 	}
 
 	@Test
-	public void test() {
+	public void test_add() {
+		fail("Not yet implemented");
+	}
+	@Test
+	public void test_subtract() {
 		fail("Not yet implemented");
 	}
 
 	@Test
-	public void test() {
+	public void test_multiply() {
 		fail("Not yet implemented");
 	}
 
 	@Test
-	public void test() {
+	public void test_divide() {
 		fail("Not yet implemented");
 	}
 
 	@Test
-	public void test() {
-		fail("Not yet implemented");
-	}
-
-	@Test
-	public void test() {
+	public void test_getHistory() {
 		fail("Not yet implemented");
 	}
 
